@@ -1,5 +1,3 @@
-# Milestone 1: Communicating with Will Byers
-
 #include <msp430.h>
 
 #define MCLK_FREQ_MHZ 8                     // MCLK = 8MHz
